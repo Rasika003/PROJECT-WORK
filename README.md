@@ -64,39 +64,38 @@ IDE
 
 
 ### Syatem Architecture
-```
+
 <img width="788" height="1004" alt="Picture5" src="https://github.com/user-attachments/assets/59eeddfc-33d7-4efe-80c5-54a334048bb2" />
 
-```
+
 
 ### Output
 
 ### REPORT:
-```
+
 <img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/247049bc-cb5b-45a6-b814-c8afe63aa912" />
 
-```
+
 
 ### PREDICTION:
-```
+
 <img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/b462c23e-eca9-42db-8546-519f46dcf356" />
 
-```
 
 
 
 ### OUTPUT PAGE:
-```
+
 <img width="753" height="456" alt="image" src="https://github.com/user-attachments/assets/6f7b123b-d3a3-4241-8cb5-c1cfb2384cbf" />
 
 
-```
+
 ### DATABASE:
-```
+
 <img width="753" height="320" alt="image" src="https://github.com/user-attachments/assets/6194a3ce-afce-43bb-b23d-ddf650fbafe1" />
 
 
-```
+
 
 
 ### Resukts and Impact
